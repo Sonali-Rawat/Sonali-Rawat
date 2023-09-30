@@ -1,4 +1,3 @@
-#Sonali Rawat
 # 💫 About Me:
 Hi I'm Sonali Rawat. I'm Passionate about exploring ways, technology can provide practical solutions to everyday problems.
 
